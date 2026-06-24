@@ -9,7 +9,7 @@ package com.example.aplicacion_ejemplo
  */
 
 val categorias = arrayOf("Leyenda","Experto","Competidor","Novato")
-val puntos = listOf("Leyenda","Experto","Competidor","Nocato")
+val puntos = listOf("Leyenda","Experto","Competidor","Novato")
 
 val participantes = mutableListOf<String>()
 val puntosParticipantes = mutableListOf<MutableList<Double>>()
